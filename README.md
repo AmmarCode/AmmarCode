@@ -8,28 +8,30 @@
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
 
 
 <br />
 <a href="https://github.com/AmmarCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarcode&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarcode&theme=blue-green&hide_langs_below=1" />
 </a>
 <a href="https://github.com/AmmarCode">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ammarcode&show_icons=true&theme=dark&line_height=27" alt="Ammar's github stats"/>
-</a>
-<a href="https://github.com/AmmarCode/AmmarCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmmarCode&repo=AmmarCode&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ammarcode&show_icons=true&theme=blue-green&line_height=27" alt="Ammar's github stats"/>
 </a>
 
+
 <!--
+<a href="https://github.com/AmmarCode/AmmarCode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmmarCode&repo=AmmarCode&theme=blue-green" />
+</a>
+
+
 **AmmarCode/AmmarCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
