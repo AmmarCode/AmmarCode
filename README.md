@@ -8,7 +8,8 @@ I could have taken an easier route by joining a coding Bootcamp as a lot of the 
 
 I'm really excited to put my hard-earned skills to work. To solve one problem at a time, to improve the quality of life for myself and others!
 
-- 📫 How to reach me: Email - [ammar.code01@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ammar.code01@gmail.com) LinkedIn - [Ammar Jalabi](https://www.linkedin.com/in/ammar-jalabi-685a78114/)
+- 📫 How to reach me: Email - [ammar.code01@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ammar.code01@gmail.com) LinkedIn - [Ammar Jalabi](https://www.linkedin.com/in/ammar-jalabi-685a78114/) 
+- Check out my Portfolio site - [Go to Portfolio](https://ammarcode.github.io/Portfolio/)
 - ⚡ Fun fact: I'm a former Professional MMA / MuayThai Fighter :)
 
 **Technologies I use:**
