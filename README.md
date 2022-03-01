@@ -3,7 +3,7 @@ Welcome to my GitHub page! I'm a Mixed martial artist turned Full-Stack Software
 
 I taught myself Software Development by taking multiple self-paced programming courses, as well as taking advantage of the tons of free resources out there!
 
-I could have taken the easier route by joining a coding Bootcamp as a lot of the career switchers do. But I'm not the type of man that backs off of a tough challenge. I'm glad I chose this route as it gave me more time to fully understand Software Engineering theories and allowed me to get real-life experience in problem-solving, getting unstuck while developing and debugging software, finding answers by googling, StackOverflow, and reading documentations.
+I'm glad I chose this route as it gave me more time to fully understand Software Engineering theories and allowed me to get real-life experience in problem-solving, getting unstuck while developing and debugging software, finding answers by googling, StackOverflow, and reading documentations.
 
 I'm really excited to put my hard-earned skills to work. Building dynamic responsive Software.
 
