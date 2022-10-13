@@ -3,7 +3,7 @@ Welcome to my GitHub page! I'm a Mixed Martial Artist turned Full-Stack Software
 
 I love building dynamic responsive Software.
 
-- 📫 How to reach me: Email - [ammar.code01@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ammar.code01@gmail.com) LinkedIn - [Ammar Jalabi](https://www.linkedin.com/in/ammar-jalabi-685a78114/) 
+- How to reach me: Email - [📫](https://mail.google.com/mail/?view=cm&fs=1&to=ammar.code01@gmail.com) LinkedIn - [Ammar Jalabi](https://www.linkedin.com/in/ammar-jalabi-685a78114/) 
 - Check out my Portfolio site - [Go to Portfolio](https://ammarcode.github.io/Portfolio/)
 
 **Technologies I use:**
@@ -23,14 +23,9 @@ I love building dynamic responsive Software.
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></p>
 
 
-
-
 <br />
 <a href="https://github.com/AmmarCode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarcode&theme=blue-green&hide_langs_below=1" />
-</a>
-<a href="https://github.com/AmmarCode">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ammarcode&show_icons=true&theme=blue-green&line_height=27" alt="Ammar's github stats"/>
 </a>
 
 
@@ -39,6 +34,10 @@ I love building dynamic responsive Software.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmmarCode&repo=AmmarCode&theme=blue-green" />
 </a>
 
+
+<a href="https://github.com/AmmarCode">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ammarcode&show_icons=true&theme=blue-green&line_height=27" alt="Ammar's github stats"/>
+</a>
 
 **AmmarCode/AmmarCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
