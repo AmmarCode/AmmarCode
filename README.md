@@ -1,13 +1,12 @@
 ### Hi there 👋, I'm Ammar Jalabi 
-Welcome to my GitHub page! I'm a Mixed martial artist turned Full-Stack Software Developer.
+Welcome to my GitHub page! I'm a Mixed Martial Artist turned Full-Stack Software Engineer.
 
-I taught myself Software Development by taking multiple self-paced programming courses, as well as taking advantage of the tons of free resources out there!
+I taught myself Software Engineering by taking multiple self-paced courses, as well as taking advantage of the tons of free resources on the internet.
 
 I'm really excited to put my hard-earned skills to work. Building dynamic responsive Software.
 
 - 📫 How to reach me: Email - [ammar.code01@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ammar.code01@gmail.com) LinkedIn - [Ammar Jalabi](https://www.linkedin.com/in/ammar-jalabi-685a78114/) 
 - Check out my Portfolio site - [Go to Portfolio](https://ammarcode.github.io/Portfolio/)
-- ⚡ Fun fact: I'm a former Professional MMA / MuayThai Fighter :)
 
 **Technologies I use:**
 
