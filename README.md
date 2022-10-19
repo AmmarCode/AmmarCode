@@ -3,7 +3,7 @@ Welcome to my GitHub page! I'm a Mixed Martial Artist turned Full-Stack Software
 
 I love building dynamic responsive Software.
 
-- How to reach me: Email - [📫](https://mail.google.com/mail/?view=cm&fs=1&to=ammar.code01@gmail.com) LinkedIn - [Ammar Jalabi](https://www.linkedin.com/in/ammar-jalabi-685a78114/) 
+- How to reach me? Email - [📫](https://mail.google.com/mail/?view=cm&fs=1&to=ammar.code01@gmail.com) LinkedIn - [Ammar Jalabi](https://www.linkedin.com/in/ammar-jalabi-685a78114/) 
 - Check out my Portfolio site - [Go to Portfolio](https://ammarcode.github.io/Portfolio/)
 
 **Technologies I use:**
