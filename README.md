@@ -27,7 +27,9 @@ I love building dynamic responsive Software.
 <a href="https://github.com/AmmarCode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarcode&theme=dark&hide_langs_below=1" />
 </a>
-
+<a href="https://github.com/AmmarCode">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ammarcode&show_icons=true&theme=dark&line_height=27" alt="Ammar's github stats"/>
+</a>
 
 <!--
 <a href="https://github.com/AmmarCode/AmmarCode">
@@ -35,9 +37,7 @@ I love building dynamic responsive Software.
 </a>
 
 
-<a href="https://github.com/AmmarCode">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ammarcode&show_icons=true&theme=blue-green&line_height=27" alt="Ammar's github stats"/>
-</a>
+
 
 **AmmarCode/AmmarCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
