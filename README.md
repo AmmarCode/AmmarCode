@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ammar 
-Welcome to my GitHub page! I'm a Mixed Martial Artist turned Full-Stack Software Engineer.
+Welcome to my GitHub page! I'm a Mixed Martial Artist turned Software Engineer.
 
 I love building dynamic responsive Software.
 
