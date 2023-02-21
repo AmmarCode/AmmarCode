@@ -16,7 +16,7 @@ I love building dynamic responsive Software.
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 <img height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img height="40" style="background: white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+<!-- <img height="40" style="background: light" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> -->
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
 <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
