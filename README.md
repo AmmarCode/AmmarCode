@@ -29,11 +29,12 @@ I love building dynamic responsive Software.
 <a href="https://github.com/AmmarCode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarcode&theme=dark&hide_langs_below=1" />
 </a>
+
+<!--
 <a href="https://github.com/AmmarCode">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ammarcode&show_icons=true&theme=dark&line_height=27" alt="Ammar's github stats"/>
 </a>
 
-<!--
 <a href="https://github.com/AmmarCode/AmmarCode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmmarCode&repo=AmmarCode&theme=blue-green" />
 </a>
