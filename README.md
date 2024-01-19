@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ammar 
-Welcome to my GitHub page! I'm a Mixed Martial Artist turned Software Engineer.
+A Mixed Martial Artist turned Software Engineer.
 
 - How to reach me? 
   - Email - [📫](https://mail.google.com/mail/?view=cm&fs=1&to=ammar.code01@gmail.com) 
