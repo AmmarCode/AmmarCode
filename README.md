@@ -2,9 +2,9 @@
 A Mixed Martial Artist turned Software Engineer.
 
 - How to reach me? 
-  - Email - [📫](https://mail.google.com/mail/?view=cm&fs=1&to=ammar.code01@gmail.com) 
-  - LinkedIn - [Ammar Jalabi](https://www.linkedin.com/in/ammar-jalabi-685a78114/) 
-- Check out my - [Portfolio](https://ammarjalabi.netlify.app/)
+  - Email : [📫](https://mail.google.com/mail/?view=cm&fs=1&to=ammar.code01@gmail.com) 
+  - LinkedIn : [Ammar Jalabi](https://www.linkedin.com/in/ammar-jalabi-685a78114/) 
+- Check out my Portfolio : [Link](https://ammarjalabi.netlify.app/)
 
 **Technologies I use:**
 
