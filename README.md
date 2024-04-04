@@ -1,10 +1,11 @@
 ### Hi there 👋, I'm Ammar 
 A Mixed Martial Artist turned Software Engineer.
 
-- How to reach me? 
-  - Email : [📫](https://mail.google.com/mail/?view=cm&fs=1&to=ammar.code01@gmail.com) 
-  - LinkedIn : [Ammar Jalabi](https://www.linkedin.com/in/ammar-jalabi-685a78114/) 
-- Check out my Portfolio : [Link](https://ammarjalabi.netlify.app/)
+[Send me an Email 📫](https://mail.google.com/mail/?view=cm&fs=1&to=ammar.code01@gmail.com) 
+<br />
+[Connect with me on LinkedIn](https://www.linkedin.com/in/ammar-jalabi-685a78114/) 
+<br />
+[Checkout my Portfolio Site](https://ammarjalabi.netlify.app/)
 
 **Technologies I use:**
 
